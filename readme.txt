@@ -1,4 +1,4 @@
 video : https://www.youtube.com/watch?v=PtQiiknWUcI&list=WL&index=3
-Time Stamp : 2:22:38
+Time Stamp : 3:01:35
 
 Admin Page = http://127.0.0.1:8000/admin/login/?next/admin/

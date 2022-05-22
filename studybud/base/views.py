@@ -20,7 +20,7 @@ def loginPage(request):
         try:
             user = User.objects.get(email = email)
         except:
-            messages.error(request, 'User does not exsist')
+            pass
             
         user = authenticate(request, email = email, password = password)
         

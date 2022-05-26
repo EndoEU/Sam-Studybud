@@ -1,7 +1,7 @@
 # StudyBud
 
 A django web application that resulted from online course -> [Youtube - Python Django 7 Hour Course](https://youtu.be/PtQiiknWUcI). This video is a 
-excellent resource for learning the django web framework and I highly recommend looking into it. [Studybud website](https://sam-studybud.herokuapp.com/)
+excellent resource for learning the django web framework and I highly recommend looking into it. [Studybud website](https://sam-studybud.herokuapp.com/). Please note the website might be off for a while until I find time to fix it. 
 
 ### Cloning the repository
 
